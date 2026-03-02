@@ -18,7 +18,7 @@
 # vendor/
 
 # Local tool binaries
-.bin/
+_output/
 
 # Go workspace file
 go.work
